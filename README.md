@@ -1,2 +1,2 @@
 # game_for_fun
-Ate shit with a friend and decided to give this world something new.
+decided to give this world something new with a friend.
